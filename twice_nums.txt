@@ -1,0 +1,6 @@
+Twice of 15 is 30
+Twice of 72 is 144
+Twice of 63 is 126
+Twice of 82 is 164
+Twice of 17 is 34
+Twice of 19 is 38
